@@ -33,8 +33,7 @@ Currently supports the following ops:
 
 Sample usage:
 ```
-const char* argv[] = {"tests/tests", "input/.psm"};
-ProcessCommandArgs(2, argv);
+./simplevm input/.psm
 ```
 
 Apologies for the little documentation. More coming soon. 
