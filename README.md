@@ -33,7 +33,7 @@ Currently supports the following ops:
 
 Sample usage:
 ```
-./simplevm input/.psm
+./simplevm input/basicExample.txt
 ```
 
 Apologies for the little documentation. More coming soon. 
